@@ -32,12 +32,6 @@ qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
-DISTFILES += \
-    images/qtlogo.png \
-    images/qtlogo.png \
-    sound/test.mp3 \
-    sound/test.wav
-
 HEADERS += \
     mainwindow.h
 
