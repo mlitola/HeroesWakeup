@@ -15,7 +15,7 @@ the version 4.8 with Qt 5.12.
 
 ### Resources and templates
 There are  graphics templates that can be used for making custom grahics. 
-Included also an alarm music clip..
+Included also an alarm music clip.
 
 ### Running the binary:
 Run from the command line i.e.
